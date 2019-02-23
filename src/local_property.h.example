@@ -1,0 +1,6 @@
+char SSID[] = "";
+char PASS[] = "";
+
+IPAddress staticIP = IPAddress(192,168,x,x);
+IPAddress gateway = IPAddress(192,168,x,x);
+IPAddress subnet = IPAddress(255,255,255,0);
